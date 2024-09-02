@@ -1,2 +1,6 @@
 git config --global user.name "user.name"[github set user name]
 git config --global user.email "user.email"[github set user email]
+git init [ initlize git in current working directory ]
+git add -A [add all untrack file to staging area]
+git status[to list all untrack file ]
+git commit -m "commit message" [to commit with descriptive commit message]
