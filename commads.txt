@@ -4,3 +4,8 @@ git init [ initlize git in current working directory ]
 git add -A [add all untrack file to staging area]
 git status[to list all untrack file ]
 git commit -m "commit message" [to commit with descriptive commit message]
+git remote add remote_name path [for adding remote]
+eg. git remote add orgin https://github.com/lintoalex/gitlearning.git
+git push remote_name branch
+eg. git push orgin master
+git branch [list all branch]
